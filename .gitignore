@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# IDE/Editor files
+.vscode/
+
+# AI/ML Specific files to IGNORE
+sentiment_model.pkl
+IMDB Dataset.csv
