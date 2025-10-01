@@ -1,1 +1,1 @@
-https://sentiment-flask-app-y2xh.onrender.com/
+https://sentiment-flask-app-y2xh.onrender.com
